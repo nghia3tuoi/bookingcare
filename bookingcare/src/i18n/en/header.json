@@ -1,0 +1,8 @@
+{
+    "header": {
+        "specialist": "Specialist",
+        "health_facilities": "Health_facilities",
+        "doctor": "Doctor",
+        "examination_package": "Examination package"
+    }
+}
